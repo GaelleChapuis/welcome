@@ -7,7 +7,7 @@
 ## Why do we want to do it?
 
 We believe that having a 'real-time' picture of the situation with a geographical reference has three major advantages:
-  1. Allows descision-makers to respond to the current state of the situation, and not with the result consequence of the situation from days before.
+  1. Allows decision-makers to respond to the current state of the situation, and not with the result consequence of the situation from days before.
   2. A geographical depiction of the situation can allow a more effective distribution of resources.
   3. Mapping of the situation can also allow a selective process of quarantine zones.
 
@@ -15,11 +15,11 @@ Capitalising on these advantages, the health systems would remain functional and
 
 ## What is the caveat?
 
-The data is unofficial and the effectivness of the system relies on the active participation of the populaition. 
+The data is unofficial and the effectivness of the system relies on the active participation of the population. 
 
 ## How are we doing it?
 
-The platrform consists ofn a frontend (vue.js) in which the user reports their sympntoms and provides their postal code anonymously. The data is then analysed (python) and sent to the backend (firebase). No data is stored in local machines.
+The platform consists of a frontend (vue.js) in which the user reports their sympntoms and provides their postal code anonymously. The data is then analysed (python) and sent to the backend (firebase). No data is stored on local machines.
 
 ## What have we done so far?
 
@@ -32,7 +32,7 @@ Thanks to all that who have supported us so far to provide statistical visualiza
 - [Pakistan](https://covid-self-report.pk): In production since 6 April 2020
 - Malta: Under development
 - Poland: Under development
-- UK: Under develeopment
+- UK: Under development
 - Israel: Under development
 - Others countries: we are looking for team leaders
 
@@ -58,7 +58,7 @@ You will need developers that can understand our code, translators, and people t
 
 1. Join our teams by filling the registration form
 2. Shortly afterwards, you will be added to our slack and github (only for developers)
-3. Then follow the slack guide lines...[here](./slack.md)
+3. Then follow the slack guidelines...[here](./slack.md)
 
 ### Registration forms
 
